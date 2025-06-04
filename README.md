@@ -42,7 +42,7 @@ popx-ui/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dhruvjindal555/popx.git
+git clone https://github.com/dhruvjindal555/PopX.git
 cd popx-ui
 ```
 
