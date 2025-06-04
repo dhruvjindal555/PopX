@@ -43,7 +43,7 @@ popx-ui/
 
 ```bash
 git clone https://github.com/dhruvjindal555/PopX.git
-cd popx-ui
+cd PopX
 ```
 
 ### 2. Install Dependencies
